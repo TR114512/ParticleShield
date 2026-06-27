@@ -88,5 +88,3 @@ ParticleShield's Web management panel employs the Argon2id password hashing algo
 ## Completely Free, Completely Open-Source
 
 ParticleShield is licensed under the MIT License — **permanently free, with no paywalls and no feature locks**. All 58 protection modules, 56 languages, Grafana monitoring dashboards, RLS row-level security, and operational automation scripts are fully available. The community is free to audit every line of code, freely modify it to suit their own needs, and freely redistribute it — this is the core of our commitment to open-source security.
-
-> **ParticleShield v3.0.1 — 58 Modules · 56 Languages · $0 Cost · 1 JAR. Enterprise-grade security for every Minecraft server.**
