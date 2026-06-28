@@ -88,5 +88,3 @@ Among these, 14 high/critical vulnerabilities (including CVSS 9.8 empty password
 ## Completely Free, Completely Open Source
 
 ParticleShield is licensed under the MIT License — **permanently free, no paywalls, no feature locks**. All 69 protection modules, 56 languages, Grafana monitoring dashboards, RLS row-level security, and operational automation scripts are fully available. The community is free to audit every line of code, freely modify to suit their needs, and freely redistribute — this is the core of our open-source security commitment.
-
-> **ParticleShield v3.1.2 — 69 Modules · 56 Languages · $0 Cost · 1 JAR. Shannon-Rated 9.7/10 · 34 Vulnerabilities Fixed · MIT Open Source. Drop it in. Protect your world.**
